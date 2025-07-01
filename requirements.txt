@@ -1,0 +1,18 @@
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-google-genai
+fastapi
+uvicorn
+python-dotenv
+streamlit
+pydantic
+langchain_google_community
+langgraph
+# yaml
+httpx
+langchain-experimental
+requests
+
+-e .
